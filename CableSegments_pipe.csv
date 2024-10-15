@@ -1,0 +1,693 @@
+﻿Cable System|Cable type (Backhaul/Subsea)|Segment|A-end Country|A-End PoP|B-end PoP|B-end Country|RTD(ms)|Weight|Supplier/Provider|Status|On-Net|Data Quality (Segment)|Data Quality (RTD)
+AUSTRALIA Backhaul|Backhaul|AU01|AUSTRALIA|SYDO|SXBR|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU02|AUSTRALIA|SYGS|SYDO|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU03|AUSTRALIA|SYDP|SXBR|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU04|AUSTRALIA|SYEQ|SYDP|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU05|AUSTRALIA|SYEQ|SXAL|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU06|AUSTRALIA|SYGS|SXAL|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU101|AUSTRALIA|SYDP|SYDO|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU102|AUSTRALIA|SYEQ|SYDO|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU103|AUSTRALIA|SYEQ|SYDP|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU104|AUSTRALIA|SYDO|PTHW|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU105|AUSTRALIA|SYDP|PTHW|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU106|AUSTRALIA|SYDP|SAXL|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Update - Incorrect POPs|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU107|AUSTRALIA|SYDP|SXBR|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU108|AUSTRALIA|SYDO|PTHP|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU109|AUSTRALIA|SYDP|PTHW|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU110|AUSTRALIA|SYDO|SXBR|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU111|AUSTRALIA|SYDO|SXAL|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU112|AUSTRALIA|PTHW|PTHP|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU113|AUSTRALIA|PTHW|PTHG|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU114|AUSTRALIA|PTHP|PTHG|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU115|AUSTRALIA|PTHP|APE2|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU116|AUSTRALIA|SYDP|PTHP|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU117|AUSTRALIA|PTHW|PTHP|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU118|AUSTRALIA|SYDP|PTHP|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU119|AUSTRALIA|SYEQ|PTHW|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU120|AUSTRALIA|SYGS|SYDO|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU121|AUSTRALIA|SYEQ|PTHW|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU122|AUSTRALIA|SYGS|SYDP|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU123|AUSTRALIA|SYEQ|SYDO|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU201|AUSTRALIA|SXAL|SASX|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU206|AUSTRALIA|SYDO|EXBN|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU207|AUSTRALIA|T124|SYDO|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU208|AUSTRALIA|SYDP|EXBN|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+AUSTRALIA Backhaul|Backhaul|AU209|AUSTRALIA|T124|SYDP|AUSTRALIA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+CANADA Backhaul|Backhaul|US136|UNITED STATES OF AMERICA|EQCH|CTC1|CANADA|#N/A|10|Telstra International|In Service|Yes|Create|Unable to reconcile against source
+CANADA Backhaul|Backhaul|US137|UNITED STATES OF AMERICA|UNSE|CTC1|CANADA|#N/A|10|Telstra International|In Service|Yes|Create|Unable to reconcile against source
+DENMARK Backhaul|Backhaul|EU135|GERMANY|GFR4|DCPH|DENMARK|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+DENMARK Backhaul|Backhaul|EU136|UNITED KINGDOM|ULHC|DCPH|DENMARK|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+FRANCE Backhaul|Backhaul|EU105|UNITED KINGDOM|ULCO|FMS1|FRANCE|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+FRANCE Backhaul|Backhaul|EU106|UNITED KINGDOM|ULCN|FMS1|FRANCE|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+FRANCE Backhaul|Backhaul|EU107|GERMANY|FRAN|FMS1|FRANCE|#N/A|10|Telstra International|In Service|Yes|Create|Unable to reconcile against source
+FRANCE Backhaul|Backhaul|EU109|UNITED KINGDOM|ULHC|FMS2|FRANCE|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+FRANCE Backhaul|Backhaul|EU110|GERMANY|FRAN|FMS2|FRANCE|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+FRANCE Backhaul|Backhaul|EU111|UNITED KINGDOM|ULCN|FMS2|FRANCE|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+FRANCE Backhaul|Backhaul|EU115|SWEDEN|STIX|FMS1|FRANCE|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+FRANCE Backhaul|Backhaul|EU126|GERMANY|GFR4|FMS1|FRANCE|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+FRANCE Backhaul|Backhaul|EU127|GERMANY|FRAN|FMS1|FRANCE|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+FRANCE Backhaul|Backhaul|EU128|UNITED KINGDOM|ULCN|FMS1|FRANCE|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+FRANCE Backhaul|Backhaul|EU134|GERMANY|GFR4|FPA4|FRANCE|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+FRANCE Backhaul|Backhaul|EU137|UNITED KINGDOM|ULHC|FPA4|FRANCE|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+FRANCE Backhaul|Backhaul||FRANCE|FMS1|MRS1|FRANCE|#N/A|10|Telstra International|In Service|Yes|Create|Unable to reconcile against source
+FRANCE Backhaul|Backhaul||FRANCE|FMS1|MRS2|FRANCE|#N/A|10|Telstra International|In Service|Yes|Create|Unable to reconcile against source
+FRANCE Backhaul|Backhaul||FRANCE|FMS1|Monaco|FRANCE|#N/A|10|Telstra International|In Service|Yes|Create|Unable to reconcile against source
+FRANCE Backhaul|Backhaul||FRANCE|FMS1|Toulon|FRANCE|#N/A|10|Telstra International|In Service|Yes|Create|Unable to reconcile against source
+FRANCE Backhaul|Backhaul||FRANCE|FMS2|Toulon|FRANCE|#N/A|10|Telstra International|In Service|Yes|Create|Unable to reconcile against source
+GERMANY Backhaul|Backhaul|EU117|NETHERLANDS|NAM7|GFR4|GERMANY|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+GERMANY Backhaul|Backhaul|EU122|SWEDEN|STIX|FRAN|GERMANY|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+GERMANY Backhaul|Backhaul|EU123|UNITED KINGDOM|ULHC|FRAN|GERMANY|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+GERMANY Backhaul|Backhaul|EU124|UNITED KINGDOM|ULCN|FRAN|GERMANY|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+GERMANY Backhaul|Backhaul|EU129|UNITED KINGDOM|ULHC|FRAN|GERMANY|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+GUAM Backhaul|Backhaul|US178|GUAM|UTG1|TALS|GUAM|#N/A|10|Telstra International|Planned|Yes|Match|Unable to reconcile against source
+GUAM Backhaul|Backhaul|US179|GUAM|UTG1|TBCS|GUAM|#N/A|10|Telstra International|Planned|Yes|Match|Unable to reconcile against source
+HONG KONG Backhaul|Backhaul|HK01|HONG KONG|HKCK|HKCC|HONG KONG| 0.2784|10|Telstra International|In Service|Yes|Unable to reconcile against source|Match
+HONG KONG Backhaul|Backhaul|HK02|HONG KONG|HKMI|HKCK|HONG KONG| 0.374|10|Telstra International|In Service|Yes|Match|Match
+HONG KONG Backhaul|Backhaul|HK03|HONG KONG|HKMI|HKCC|HONG KONG| 0.416|10|Telstra International|In Service|Yes|Match|Match
+HONG KONG Backhaul|Backhaul|HK05|HONG KONG|HKGG|HKCK|HONG KONG| 0.6159|10|Telstra International|In Service|Yes|Match|Match
+HONG KONG Backhaul|Backhaul|HK06|HONG KONG|HKGG|HKCC|HONG KONG| 0.5175|10|Telstra International|In Service|Yes|Match|Match
+HONG KONG Backhaul|Backhaul|HK07|HONG KONG|HKSF|HKMI|HONG KONG|0.14|10|Telstra International|In Service|Yes|Match|Match
+HONG KONG Backhaul|Backhaul|HK08|HONG KONG|HKTH|HKKW|HONG KONG|0.54|10|Telstra International|In Service|Yes|Match|Match
+HONG KONG Backhaul|Backhaul|HK09|HONG KONG|HKKW|HKGG|HONG KONG|0.18802|10|Telstra International|In Service|Yes|Match|Match
+HONG KONG Backhaul|Backhaul|HK11|HONG KONG|HKTH|HKHH|HONG KONG|0.1364 |10|Telstra International|In Service|Yes|Match|Match
+HONG KONG Backhaul|Backhaul|HK12a|HONG KONG|SLTU|HKHH|HONG KONG|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+HONG KONG Backhaul|Backhaul|HK12b|HONG KONG|SLTU|HKHH|HONG KONG|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+HONG KONG Backhaul|Backhaul|HK13|HONG KONG|HKTH|HKDW|HONG KONG|0.374|10|Telstra International|In Service|Yes|Match|Match
+HONG KONG Backhaul|Backhaul|HK14|HONG KONG|HKST|HKDW|HONG KONG|0.5|10|Telstra International|In Service|Yes|Match|Match
+HONG KONG Backhaul|Backhaul|HK16a|HONG KONG|TGFK|HKTH|HONG KONG|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+HONG KONG Backhaul|Backhaul|HK16b|HONG KONG|TGFK|HKTH|HONG KONG|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+HONG KONG Backhaul|Backhaul|HK17|HONG KONG|TGFK|SLTU|HONG KONG|0.0974|10|Telstra International|In Service|Yes|Unable to reconcile against source|Match
+HONG KONG Backhaul|Backhaul|HK18|HONG KONG|HKTH|HKMI|HONG KONG| 0.2855|10|Telstra International|In Service|Yes|Match|Match
+HONG KONG Backhaul|Backhaul|HK19|HONG KONG|SLTU|HKGG|HONG KONG| 0.4796|10|Telstra International|In Service|Yes|Match|Match
+HONG KONG Backhaul|Backhaul|HK20|HONG KONG|SLTU|HKCC|HONG KONG|0.405|10|Telstra International|In Service|Yes|Match|Match
+HONG KONG Backhaul|Backhaul|HK21|HONG KONG|HKTH|HKCC|HONG KONG| 0.2551|10|Telstra International|In Service|Yes|Match|Match
+HONG KONG Backhaul|Backhaul|HK22|HONG KONG|HKTH|HKMI|HONG KONG| 0.2855|10|Telstra International|In Service|Yes|Unable to reconcile against source|Match
+HONG KONG Backhaul|Backhaul|HK23|HONG KONG|HKSF|HKCK|HONG KONG|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+HONG KONG Backhaul|Backhaul|HK24|HONG KONG|HKSF|HKCC|HONG KONG|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+HONG KONG Backhaul|Backhaul|HK25|HONG KONG|TGFK|HKCC|HONG KONG|0.41|10|Telstra International|In Service|Yes|Match|Match
+HONG KONG Backhaul|Backhaul|HK26|HONG KONG|HKEA|HKCK|HONG KONG|#N/A|10|Telstra International|In Service|Yes|Update - Incorrect POPs|Unable to reconcile against source
+HONG KONG Backhaul|Backhaul|HK27|HONG KONG|HKCK|HKCC|HONG KONG|#N/A|10|Telstra International|In Service|Yes|Update - Incorrect POPs|Unable to reconcile against source
+HONG KONG Backhaul|Backhaul|ML107|MALAYSIA|MKLA|SLTU|HONG KONG|#N/A|10|Telstra International|In Service|Yes|Create|Unable to reconcile against source
+INDIA Backhaul|Backhaul|IN101|INDIA|IMNV|CHEP|INDIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+INDIA Backhaul|Backhaul|IN102|INDIA|IMNV|CHEP|INDIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+INDIA Backhaul|Backhaul|IN103|INDIA|IBEM|CHEP|INDIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+INDIA Backhaul|Backhaul|IN104|INDIA|IDTA|CHEP|INDIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+INDIA Backhaul|Backhaul|IN106|INDIA|IMNV|IBEM|INDIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+INDIA Backhaul|Backhaul|IN107|INDIA|IMNV|IDTA|INDIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+INDIA Backhaul|Backhaul|IN108|INDIA|IMNV||INDIA|#N/A|10|Telstra International|In Service|Yes|Create|Unable to reconcile against source
+INDIA Backhaul|Backhaul|IN109|INDIA|IMNV|BBGM|INDIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+INDIA Backhaul|Backhaul|IN110|INDIA|IMNV||INDIA|#N/A|10|Telstra International|In Service|Yes|Create|Unable to reconcile against source
+INDIA Backhaul|Backhaul|IN111|INDIA|IMNV||INDIA|#N/A|10|Telstra International|In Service|Yes|Create|Unable to reconcile against source
+INDIA Backhaul|Backhaul|IN113|INDIA|IMNV|IMBK|INDIA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+INDIA Backhaul|Backhaul|IN115|INDIA|IMBK|ICSE|INDIA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+INDIA Backhaul|Backhaul|IN116|INDIA|ICSE|CHEP|INDIA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+INDONESIA Backhaul|Backhaul|ID101|INDONESIA|JAKT|IJCB|INDONESIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+JAPAN Backhaul|Backhaul|JP01|JAPAN|JOUA|JOS1|JAPAN|0.164|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP02|JAPAN|SMCC|JOS1|JAPAN|2.002|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP03|JAPAN|JSOM|JOUA|JAPAN|3.91|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP04a|JAPAN|NTDO|JOUA|JAPAN|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+JAPAN Backhaul|Backhaul|JP04b|JAPAN|NTDO|JOUA|JAPAN|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+JAPAN Backhaul|Backhaul|JP05|JAPAN|NTDO|JOS1|JAPAN|0.3|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP06|JAPAN|SMCC|JSOM|JAPAN|0.11|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP07|JAPAN|JSOM|SNTT|JAPAN|0.043|10|Telstra International|In Service|Yes|Create|Match
+JAPAN Backhaul|Backhaul|JP08|JAPAN|SNTT|SMCC|JAPAN|0.043|10|Telstra International|In Service|Yes|Create|Match
+JAPAN Backhaul|Backhaul|JP09|JAPAN|JTHA|EQHS|JAPAN|0.27731|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP10|JAPAN|SIKO|EQHS|JAPAN|0.25969|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP11|JAPAN|EQHS|CHCC|JAPAN|1.36518|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP12|JAPAN|JTAT|EQHS|JAPAN|0.097|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP13|JAPAN|JTHA|EQHS|JAPAN|0.27731|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP14|JAPAN|JWLS|JTAT|JAPAN|1.727|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP15|JAPAN|SIKO|JTAT|JAPAN|4.739|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP16|JAPAN|KDOH|JTHA|JAPAN|0.12423|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP17|JAPAN|JTHA|JAAJ|JAPAN|1.96806|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP18|JAPAN|JTHA|JTAT|JAPAN|0.09805|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP22|JAPAN|JWLS|CHCC|JAPAN|0.055|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP23|JAPAN|JWLS|CKKD|JAPAN|0.5|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP24|JAPAN|MJLS|JWLS|JAPAN|0.1336|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP25|JAPAN|MJLS|CHCC|JAPAN|0.2352|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP26|JAPAN|MJLS|CHCC|JAPAN|0.2352|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP27|JAPAN|NFP3|EQHS|JAPAN|0.24544|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP28|JAPAN|SIKO|NFP3|JAPAN|0.28561|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP29|JAPAN|SIKO|JAAJ|JAPAN|2.08996|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP30|JAPAN|SIKO|KDOH|JAPAN|0.20743|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP31|JAPAN|SIKO|JTY4|JAPAN|0.19904|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP31_IP|JAPAN|NTOH|KDOH|JAPAN|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+JAPAN Backhaul|Backhaul|JP32|JAPAN|JTY4|JTHA|JAPAN|0.1852|10|Telstra International|In Service|Yes|Match|Match
+JAPAN Backhaul|Backhaul|JP32_IP|JAPAN|NTOH|JTHA|JAPAN|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+JAPAN Backhaul|Backhaul|JP33|JAPAN|MJLS|JTY4|JAPAN|1.8|10|Telstra International|In Service|Yes|Match|Match
+KOREA SOUTH Backhaul|Backhaul|KR01|KOREA SOUTH|PUCC|KOLS|KOREA SOUTH|0.21|10|Telstra International|In Service|Yes|Match|Match
+KOREA SOUTH Backhaul|Backhaul|KR02|KOREA SOUTH|PUCC|KSYD|KOREA SOUTH|5.83|10|Telstra International|In Service|Yes|Match|Match
+KOREA SOUTH Backhaul|Backhaul|KR03|KOREA SOUTH|KSYD|KSSD|KOREA SOUTH|0.15|10|Telstra International|In Service|Yes|Match|Match
+KOREA SOUTH Backhaul|Backhaul|KR04|KOREA SOUTH|KSSD|KOLS|KOREA SOUTH|6.67|10|Telstra International|In Service|Yes|Match|Match
+KOREA SOUTH Backhaul|Backhaul|KR05|KOREA SOUTH|KSSR|KSSD|KOREA SOUTH|2.95|10|Telstra International|In Service|Yes|Match|Match
+KOREA SOUTH Backhaul|Backhaul|KR06|KOREA SOUTH|KSSR|KSSD|KOREA SOUTH|4.99|10|Telstra International|In Service|Yes|Match|Match
+KOREA SOUTH Backhaul|Backhaul|KR07|KOREA SOUTH|KSSD|KSGG|KOREA SOUTH|0.36|10|Telstra International|In Service|Yes|Match|Match
+KOREA SOUTH Backhaul|Backhaul|KR08|KOREA SOUTH|KSGG|KSEQ|KOREA SOUTH|0|10|Telstra International|In Service|Yes|Match|Match
+KOREA SOUTH Backhaul|Backhaul|KR09|KOREA SOUTH|KSYD|KSEQ|KOREA SOUTH|0|10|Telstra International|In Service|Yes|Match|Match
+KOREA SOUTH Backhaul|Backhaul|KR10|KOREA SOUTH|KSSD|KBGG|KOREA SOUTH|0.47|10|Telstra International|In Service|Yes|Match|Match
+KOREA SOUTH Backhaul|Backhaul|KR11|KOREA SOUTH|KSYD|KBGG|KOREA SOUTH|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+MALAYSIA Backhaul|Backhaul|ML01a|SINGAPORE|SGGS|MJMA|MALAYSIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+MALAYSIA Backhaul|Backhaul|ML01b|SINGAPORE|SGGS|MJMA|MALAYSIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+MALAYSIA Backhaul|Backhaul|ML02|SINGAPORE|SGGS|MJMA|MALAYSIA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+MALAYSIA Backhaul|Backhaul|ML03|MALAYSIA|MKLA|MJMA|MALAYSIA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+MALAYSIA Backhaul|Backhaul|ML04|MALAYSIA|MKLA|ISTT|SINGAPORE|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+MALAYSIA Backhaul|Backhaul|ML103|MALAYSIA|MKLA|MJMA|MALAYSIA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+MALAYSIA Backhaul|Backhaul|ML104|MALAYSIA|MKLA|ISTT|SINGAPORE|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+MALAYSIA Backhaul|Backhaul|ML108|SINGAPORE|SGGS|MKLA|MALAYSIA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+NETHERLANDS Backhaul|Backhaul|EU116|UNITED KINGDOM|ULCN|NAM7|NETHERLANDS|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+NEW ZEALAND Backhaul|Backhaul|NZ101|NEW ZEALAND|WHLS|HPTW|NEW ZEALAND|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+NEW ZEALAND Backhaul|Backhaul|NZ102|NEW ZEALAND|WHLS|HPTW|NEW ZEALAND|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+NEW ZEALAND Backhaul|Backhaul|NZ103|NEW ZEALAND|TAUC|TACL|NEW ZEALAND|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+NEW ZEALAND Backhaul|Backhaul|NZ104|NEW ZEALAND|TAUC|TACL|NEW ZEALAND|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+NEW ZEALAND Backhaul|Backhaul|NZ105|NEW ZEALAND|HPTW|Raglan CLS|NEW ZEALAND|#N/A|10|Telstra International|In Service|Yes|Create|Unable to reconcile against source
+NEW ZEALAND Backhaul|Backhaul|NZ106|NEW ZEALAND|TAUC|HPTW|NEW ZEALAND|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+NEW ZEALAND Backhaul|Backhaul|NZ107|NEW ZEALAND|AUMD|Raglan CLS|NEW ZEALAND|#N/A|10|Telstra International|In Service|Yes|Create|Unable to reconcile against source
+PHILIPPINES Backhaul|Backhaul|PH01|PHILIPPINES|PMRS|PCGD|PHILIPPINES|0.63|10|Telstra International|In Service|Yes|Match|Match
+PHILIPPINES Backhaul|Backhaul|PH02|PHILIPPINES|PMRS|PCGD|PHILIPPINES|0.469|10|Telstra International|In Service|Yes|Match|Match
+PHILIPPINES Backhaul|Backhaul|PH03|PHILIPPINES|PNMA|PCGD|PHILIPPINES|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+PHILIPPINES Backhaul|Backhaul|PH04|PHILIPPINES|PNMA|PCGD|PHILIPPINES|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+PHILIPPINES Backhaul|Backhaul|PH05|PHILIPPINES|PMRS|PMPC|PHILIPPINES|0.2012|10|Telstra International|In Service|Yes|Match|Match
+PHILIPPINES Backhaul|Backhaul|PH06|PHILIPPINES|PNMA|PMPC|PHILIPPINES|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+PHILIPPINES Backhaul|Backhaul|PH07a|PHILIPPINES|PMRS|PHPN|PHILIPPINES|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+PHILIPPINES Backhaul|Backhaul|PH07b|PHILIPPINES|PMRS|PHPN|PHILIPPINES|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+PHILIPPINES Backhaul|Backhaul|PH08|PHILIPPINES|PMRS|PHPN|PHILIPPINES|0.39147|10|Telstra International|In Service|Yes|Update - Incorrect POPs|Match
+PHILIPPINES Backhaul|Backhaul|PH09|PHILIPPINES|PMVR|PMRS|PHILIPPINES|0.07525ms|10|Telstra International|Planned|Yes|Match|Match
+PHILIPPINES Backhaul|Backhaul|PH10|PHILIPPINES|PMVR|PMPC|PHILIPPINES|0.16037ms|10|Telstra International|Planned|Yes|Match|Match
+PHILIPPINES Backhaul|Backhaul|PH103|PHILIPPINES|PMPC|LAUS|PHILIPPINES|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+SINGAPORE Backhaul|Backhaul|SG01|SINGAPORE|SGGS|SGCN|SINGAPORE|0.329|10|Telstra International|In Service|Yes|Match|Match
+SINGAPORE Backhaul|Backhaul|SG02|SINGAPORE|SGGS|SGCN|SINGAPORE|0.329|10|Telstra International|In Service|Yes|Match|Match
+SINGAPORE Backhaul|Backhaul|SG03|SINGAPORE|SGGS|ISTT|SINGAPORE|0.39966|10|Telstra International|In Service|Yes|Match|Match
+SINGAPORE Backhaul|Backhaul|SG04|SINGAPORE|SGCN|ISTT|SINGAPORE|0.454|10|Telstra International|In Service|Yes|Match|Match
+SINGAPORE Backhaul|Backhaul|SG06|SINGAPORE|SKGX|SGCH|SINGAPORE|0.24|10|Telstra International|In Service|Yes|Match|Match
+SINGAPORE Backhaul|Backhaul|SG07|SINGAPORE|SGCN|SGCH|SINGAPORE|0.023|10|Telstra International|In Service|Yes|Match|Match
+SINGAPORE Backhaul|Backhaul|SG08|SINGAPORE|SGPL|SGCH|SINGAPORE|0.463|10|Telstra International|In Service|Yes|Match|Match
+SINGAPORE Backhaul|Backhaul|SG09|SINGAPORE|SGPL|SGCN|SINGAPORE|0.297|10|Telstra International|In Service|Yes|Match|Match
+SINGAPORE Backhaul|Backhaul|SG10|SINGAPORE|SGPL|SGGS|SINGAPORE|0.175|10|Telstra International|In Service|Yes|Match|Match
+SINGAPORE Backhaul|Backhaul|SG101|SINGAPORE|SGNT|SGGS|SINGAPORE|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+SINGAPORE Backhaul|Backhaul|SG102|SINGAPORE|SGNT|ISTT|SINGAPORE|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+SINGAPORE Backhaul|Backhaul|SG103|SINGAPORE|SGMS|ISTT|SINGAPORE|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+SINGAPORE Backhaul|Backhaul|SG11|SINGAPORE|SGPL|ISTT|SINGAPORE|1.212|10|Telstra International|In Service|Yes|Match|Match
+SINGAPORE Backhaul|Backhaul|SG12|SINGAPORE|KTLS|ISTT|SINGAPORE|2.09|10|Telstra International|In Service|Yes|Unable to reconcile against source|Match
+SINGAPORE Backhaul|Backhaul|SG14|SINGAPORE|SCGL|KTLS|SINGAPORE|0.235|10|Telstra International|In Service|Yes|Unable to reconcile against source|Match
+SINGAPORE Backhaul|Backhaul|SG15|SINGAPORE|SGGS|SCGL|SINGAPORE|0.289|10|Telstra International|In Service|Yes|Unable to reconcile against source|Match
+SINGAPORE Backhaul|Backhaul|SG16|SINGAPORE|SKGX|SGGS|SINGAPORE|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+SINGAPORE Backhaul|Backhaul|SG17|SINGAPORE|TUAS|SGGS|SINGAPORE|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+SINGAPORE Backhaul|Backhaul|SG18|SINGAPORE|TUAS|ISTT|SINGAPORE|1.041|10|Telstra International|In Service|Yes|Unable to reconcile against source|Match
+SINGAPORE Backhaul|Backhaul|SG21|SINGAPORE|TUAS|SGGS|SINGAPORE|1.2|10|Telstra International|In Service|Yes|Unable to reconcile against source|Match
+SINGAPORE Backhaul|Backhaul|SG22|SINGAPORE|SGCN|SCGL|SINGAPORE|0.115|10|Telstra International|In Service|Yes|Match|Match
+SINGAPORE Backhaul|Backhaul|SG23|SINGAPORE|SKGX|SGGS|SINGAPORE|0.183|10|Telstra International|In Service|Yes|Match|Match
+SINGAPORE Backhaul|Backhaul|SG25|SINGAPORE|SCGL|ISTT|SINGAPORE|0.9216|10|Telstra International|In Service|Yes|Match|Match
+SINGAPORE Backhaul|Backhaul|SG28|SINGAPORE|TUAS|SGGS|SINGAPORE|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+SINGAPORE Backhaul|Backhaul|SG29|SINGAPORE|SGCN|ISTT|SINGAPORE|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+SINGAPORE Backhaul|Backhaul|SG30|SINGAPORE|SGGS|SGCN|SINGAPORE|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+SINGAPORE Backhaul|Backhaul|SG31|SINGAPORE|TUAS|ISTT|SINGAPORE|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+SINGAPORE Backhaul|Backhaul|SG34|SINGAPORE|SGMS|SGCN|SINGAPORE|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+SINGAPORE Backhaul|Backhaul|SG35|SINGAPORE|KTLS|ISTT|SINGAPORE|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+SINGAPORE Backhaul|Backhaul|SG36|SINGAPORE|SGGS|KTLS|SINGAPORE|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+SINGAPORE Backhaul|Backhaul|SG39|SINGAPORE|ISTT|ISTT|SINGAPORE|#N/A|10|Telstra International|In Service|Yes|Update - Incorrect POPs|Unable to reconcile against source
+SINGAPORE Backhaul|Backhaul|SG40|SINGAPORE|SKGX|SGCN|SINGAPORE|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+SWEDEN Backhaul|Backhaul|EU114|UNITED KINGDOM|ULHC|STIX|SWEDEN|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+TAIWAN Backhaul|Backhaul|TW01|TAIWAN|TPEI|TPEA|TAIWAN|2.05|10|Telstra International|In Service|Yes|Unable to reconcile against source|Match
+TAIWAN Backhaul|Backhaul|TW01a|TAIWAN|TTPL|TPEI|TAIWAN|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+TAIWAN Backhaul|Backhaul|TW01b|TAIWAN|TTPL|TPEI|TAIWAN|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+TAIWAN Backhaul|Backhaul|TW02|TAIWAN|TPEI|TPEA|TAIWAN|1.99|10|Telstra International|In Service|Yes|Unable to reconcile against source|Match
+TAIWAN Backhaul|Backhaul|TW03|TAIWAN|TTTJ|TTRG|TAIWAN|0.245|10|Telstra International|In Service|Yes|Match|Match
+TAIWAN Backhaul|Backhaul|TW04|TAIWAN|TTRG|TPEI|TAIWAN|1|10|Telstra International|In Service|Yes|Match|Match
+TAIWAN Backhaul|Backhaul|TW05|TAIWAN|TTTJ|TPEA|TAIWAN|0.254|10|Telstra International|In Service|Yes|Match|Match
+TAIWAN Backhaul|Backhaul|TW07|TAIWAN|TTAK|TPEI|TAIWAN|0.199|10|Telstra International|In Service|Yes|Match|Match
+TAIWAN Backhaul|Backhaul|TW08|TAIWAN|TUCN|TTAK|TAIWAN|0.959|10|Telstra International|In Service|Yes|Match|Match
+TAIWAN Backhaul|Backhaul|TW09|TAIWAN|TUCN|TPEI|TAIWAN|0.689|10|Telstra International|In Service|Yes|Match|Match
+TAIWAN Backhaul|Backhaul|TW10|TAIWAN|TPEI|TKDC|TAIWAN|5.227|10|Telstra International|In Service|Yes|Match|Match
+TAIWAN Backhaul|Backhaul|TW11|TAIWAN|TUCN|FGCC|TAIWAN|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+TAIWAN Backhaul|Backhaul|TW12|TAIWAN|TKDC|FGCC|TAIWAN|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+THAILAND Backhaul|Backhaul|TH101|SINGAPORE|ISTT|CAT8|THAILAND|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+THAILAND Backhaul|Backhaul|TH102|THAILAND|TBMT|ISTT|SINGAPORE|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED ARAB EMIRATES Backhaul|Backhaul|ME07|UNITED ARAB EMIRATES|UFSH|UDDM|UNITED ARAB EMIRATES|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED ARAB EMIRATES Backhaul|Backhaul|ME101|UNITED ARAB EMIRATES|UDDM||UNITED ARAB EMIRATES|#N/A|10|Telstra International|In Service|Yes|Create|Unable to reconcile against source
+UNITED ARAB EMIRATES Backhaul|Backhaul|ME102|UNITED ARAB EMIRATES|UDDM|UFSH|UNITED ARAB EMIRATES|#N/A|10|Telstra International|In Service|Yes|Create|Unable to reconcile against source
+UNITED ARAB EMIRATES Backhaul|Backhaul|ME103|UNITED ARAB EMIRATES|UDDM||UNITED ARAB EMIRATES|#N/A|10|Telstra International|In Service|Yes|Create|Unable to reconcile against source
+UNITED ARAB EMIRATES Backhaul|Backhaul|ME104|UNITED ARAB EMIRATES|UDDM|UFSH|UNITED ARAB EMIRATES|#N/A|10|Telstra International|In Service|Yes|Create|Unable to reconcile against source
+UNITED ARAB EMIRATES Backhaul|Backhaul|ME105|UNITED ARAB EMIRATES|UDDM||UNITED ARAB EMIRATES|#N/A|10|Telstra International|In Service|Yes|Create|Unable to reconcile against source
+UNITED ARAB EMIRATES Backhaul|Backhaul|ME106|UNITED ARAB EMIRATES|UDDM||UNITED ARAB EMIRATES|#N/A|10|Telstra International|In Service|Yes|Create|Unable to reconcile against source
+UNITED KINGDOM Backhaul|Backhaul|EU01|UNITED KINGDOM|ULHC|ULCN|UNITED KINGDOM|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED KINGDOM Backhaul|Backhaul|EU02|UNITED KINGDOM|ULHC|ULCO|UNITED KINGDOM|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED KINGDOM Backhaul|Backhaul|EU03|UNITED KINGDOM|ULCO|ULCN|UNITED KINGDOM|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED KINGDOM Backhaul|Backhaul|EU112|UNITED KINGDOM|ULHX|ULHC|UNITED KINGDOM|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED KINGDOM Backhaul|Backhaul|EU131|UNITED KINGDOM|ULCN|EIGL|UNITED KINGDOM|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|UE131|UNITED STATES OF AMERICA|EQNX|EQCH|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US01a|UNITED STATES OF AMERICA|SLOJ|SLOA|UNITED STATES OF AMERICA|0.16|10|Telstra International|In Service|Yes|Match|Match
+UNITED STATES OF AMERICA Backhaul|Backhaul|US01b|UNITED STATES OF AMERICA|SLOJ|SLOA|UNITED STATES OF AMERICA|4.06|10|Telstra International|In Service|Yes|Match|Match
+UNITED STATES OF AMERICA Backhaul|Backhaul|US02|UNITED STATES OF AMERICA|SLOA|MBOA|UNITED STATES OF AMERICA|3.23|10|Telstra International|In Service|Yes|Match|Match
+UNITED STATES OF AMERICA Backhaul|Backhaul|US03|UNITED STATES OF AMERICA|SLOA|1WLT|UNITED STATES OF AMERICA|4.64|10|Telstra International|In Service|Yes|Match|Match
+UNITED STATES OF AMERICA Backhaul|Backhaul|US04|UNITED STATES OF AMERICA|SLOA|EQNX|UNITED STATES OF AMERICA|3|10|Telstra International|In Service|Yes|Match|Match
+UNITED STATES OF AMERICA Backhaul|Backhaul|US05|UNITED STATES OF AMERICA|MBOA|1WLT|UNITED STATES OF AMERICA|4.6|10|Telstra International|In Service|Yes|Match|Match
+UNITED STATES OF AMERICA Backhaul|Backhaul|US06|UNITED STATES OF AMERICA|EQNX|1WLT|UNITED STATES OF AMERICA|9|10|Telstra International|In Service|Yes|Match|Match
+UNITED STATES OF AMERICA Backhaul|Backhaul|US07|UNITED STATES OF AMERICA|1WUN|1WLT|UNITED STATES OF AMERICA|0.00029|10|Telstra International|In Service|Yes|Unable to reconcile against source|Match
+UNITED STATES OF AMERICA Backhaul|Backhaul|US08a|UNITED STATES OF AMERICA|TLOT|1WUN|UNITED STATES OF AMERICA|0.0048|10|Telstra International|In Service|Yes|Match|Match
+UNITED STATES OF AMERICA Backhaul|Backhaul|US08b|UNITED STATES OF AMERICA|TLOT|1WUN|UNITED STATES OF AMERICA|0.0048|10|Telstra International|In Service|Yes|Match|Match
+UNITED STATES OF AMERICA Backhaul|Backhaul|US09|UNITED STATES OF AMERICA|TLOT|1WLT|UNITED STATES OF AMERICA|0.001|10|Telstra International|In Service|Yes|Match|Match
+UNITED STATES OF AMERICA Backhaul|Backhaul|US10|UNITED STATES OF AMERICA|EQLA|1WMR|UNITED STATES OF AMERICA|0.028|10|Telstra International|In Service|Yes|Match|Match
+UNITED STATES OF AMERICA Backhaul|Backhaul|US11|UNITED STATES OF AMERICA|ULAL|EQLA|UNITED STATES OF AMERICA|0.05|10|Telstra International|In Service|Yes|Match|Match
+UNITED STATES OF AMERICA Backhaul|Backhaul|US113|UNITED STATES OF AMERICA|EQCH|1WLT|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US115|UNITED STATES OF AMERICA|USWB|EQNX|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US115a|UNITED STATES OF AMERICA|USWB|EQNX|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US115b|UNITED STATES OF AMERICA|USWB|EQNX|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US119|UNITED STATES OF AMERICA|UNY4|UNSE|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US12|UNITED STATES OF AMERICA|ULAL|1WMR|UNITED STATES OF AMERICA|0.16|10|Telstra International|In Service|Yes|Match|Match
+UNITED STATES OF AMERICA Backhaul|Backhaul|US120|UNITED STATES OF AMERICA|NY8A|EQCH|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US123a|UNITED STATES OF AMERICA|SJMC|EQNX|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US123b|UNITED STATES OF AMERICA|SJMC|EQNX|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US124|UNITED STATES OF AMERICA|UNSE|TLOT|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US126|UNITED STATES OF AMERICA|MANC|EQNX|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US127|UNITED STATES OF AMERICA|USWB|EQCH|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US128|UNITED STATES OF AMERICA|USWB|USFB|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US129|UNITED STATES OF AMERICA|USFB|EQNX|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US13|UNITED STATES OF AMERICA|EQCH|1WUN|UNITED STATES OF AMERICA|47.9|10|Telstra International|In Service|Yes|Unable to reconcile against source|Match
+UNITED STATES OF AMERICA Backhaul|Backhaul|US131|UNITED STATES OF AMERICA|EQNX|EQCH|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US132|UNITED STATES OF AMERICA|EQCH|1WMR|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US135|UNITED STATES OF AMERICA|MRBC|MBOA|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US138|UNITED STATES OF AMERICA|PAIX|NY8A|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US139|UNITED STATES OF AMERICA|NY8A|EQNX|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US141|UNITED STATES OF AMERICA|UNSE|1WLT|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US142|UNITED STATES OF AMERICA|UNSE|UNHS|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US143|UNITED STATES OF AMERICA|PAIX|EQNX|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US144|UNITED STATES OF AMERICA|TLOT|EQLA|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Create|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US145|UNITED STATES OF AMERICA|UNSE|EQNX|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US146|UNITED STATES OF AMERICA|1WLT|EQAB|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Create|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US148|UNITED STATES OF AMERICA|UNSE|EQAB|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US149|UNITED STATES OF AMERICA|TLOT|EQAB|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US151|UNITED STATES OF AMERICA|UHHK|KELS|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US152|UNITED STATES OF AMERICA|MKLS|KELS|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US153|UNITED STATES OF AMERICA|UHHK|MKLS|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US154|UNITED STATES OF AMERICA|KELS|HIKA|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US155|UNITED STATES OF AMERICA|USWB|EQNX|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US156|UNITED STATES OF AMERICA|USWB|PAIX|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US157|UNITED STATES OF AMERICA|EQNX|BAAT|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US158|UNITED STATES OF AMERICA|USWB|BAAT|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US159|UNITED STATES OF AMERICA|SLOJ|1WLT|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US16|UNITED STATES OF AMERICA|EQLA|1WLT|UNITED STATES OF AMERICA|1|10|Telstra International|In Service|Yes|Match|Match
+UNITED STATES OF AMERICA Backhaul|Backhaul|US160|UNITED STATES OF AMERICA|BAAT|1WLT|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US161|UNITED STATES OF AMERICA|SLOJ|EQCH|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US162|UNITED STATES OF AMERICA|PAIX|BAAT|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US163|UNITED STATES OF AMERICA|SLOJ|EQNX|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US164|UNITED STATES OF AMERICA|USFB|PAIX|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US165|UNITED STATES OF AMERICA|UNSE|EQNX|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US166|UNITED STATES OF AMERICA|USWB|HILS|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US167|UNITED STATES OF AMERICA|USDF|EQAB|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US168|UNITED STATES OF AMERICA|USDF|ULAL|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US169|UNITED STATES OF AMERICA|USFB|HILS|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US172|UNITED STATES OF AMERICA|UHHK|MKAL|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US173|UNITED STATES OF AMERICA|UHHK|KELS|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US174|UNITED STATES OF AMERICA|ULAL|EQAB|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US175|UNITED STATES OF AMERICA|UME1|EQAB|UNITED STATES OF AMERICA|52.271ms|10|Telstra International|In Service|Yes|Match|Match
+UNITED STATES OF AMERICA Backhaul|Backhaul|US176|UNITED STATES OF AMERICA|UME1|ULAL|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Match
+UNITED STATES OF AMERICA Backhaul|Backhaul|US180|UNITED STATES OF AMERICA|UME1|ULAL|UNITED STATES OF AMERICA|25.998ms|10|Telstra International|In Service|Yes|Unable to reconcile against source|Match
+UNITED STATES OF AMERICA Backhaul|Backhaul|US181|UNITED STATES OF AMERICA|UHHK|HIKA|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US182|UNITED STATES OF AMERICA|UHHK|HIKA|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US18a|UNITED STATES OF AMERICA|UNSE|NY8A|UNITED STATES OF AMERICA|0.239|10|Telstra International|In Service|Yes|Unable to reconcile against source|Match
+UNITED STATES OF AMERICA Backhaul|Backhaul|US18b|UNITED STATES OF AMERICA|UNSE|NY8A|UNITED STATES OF AMERICA|1.239|10|Telstra International|In Service|Yes|Unable to reconcile against source|Match
+UNITED STATES OF AMERICA Backhaul|Backhaul|US19|UNITED STATES OF AMERICA|UNY4|UNSE|UNITED STATES OF AMERICA|0.013|10|Telstra International|In Service|Yes|Unable to reconcile against source|Match
+UNITED STATES OF AMERICA Backhaul|Backhaul|US21|UNITED STATES OF AMERICA|USFB|1WLT|UNITED STATES OF AMERICA|22|10|Telstra International|In Service|Yes|Unable to reconcile against source|Match
+UNITED STATES OF AMERICA Backhaul|Backhaul|US30|UNITED STATES OF AMERICA|PAIX|1WLT|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US305|UNITED STATES OF AMERICA|EQNX|BAAT|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US34|UNITED STATES OF AMERICA|ULAL|TLOT|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US40|UNITED STATES OF AMERICA|ULAL|EQNX|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US41a|UNITED STATES OF AMERICA|MRBC|MBOA|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US41b|UNITED STATES OF AMERICA|MRBC|MBOA|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US430|UNITED STATES OF AMERICA|MRBC|MBOA|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US45|UNITED STATES OF AMERICA|TLOT|EQLA|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US46|UNITED STATES OF AMERICA|PAIX|EQNX|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Match|Unable to reconcile against source
+UNITED STATES OF AMERICA Backhaul|Backhaul|US47|UNITED STATES OF AMERICA|USFB|HILS|UNITED STATES OF AMERICA|#N/A|10|Telstra International|In Service|Yes|Create|Unable to reconcile against source
+AAG CABLE NETWORK|Subsea|AAG S5 FP-3 [AAG DF]|UNITED STATES OF AMERICA|SLOJ|KELS|UNITED STATES OF AMERICA|42|20|Consortium|In Service|Yes|To be determined|Match
+AAG CABLE NETWORK|Subsea|AAG S4 FP-2 [KEA-TAN]|GUAM|TALS|KELS|UNITED STATES OF AMERICA|67|20|Consortium|In Service|Yes|To be determined|Match
+AAG CABLE NETWORK|Subsea|AAG S5 FP-2 [KEA-SLO]|UNITED STATES OF AMERICA|SLOJ|KELS|UNITED STATES OF AMERICA|42|20|Consortium|In Service|Yes|To be determined|Match
+AAG CABLE NETWORK|Subsea|AAG S4 FP-1 [KEA-TAN]|GUAM|TALS|KELS|UNITED STATES OF AMERICA|67|20|Consortium|In Service|Yes|To be determined|Match
+AAG CABLE NETWORK|Subsea|AAG S5 FP-1 [KEA-SLO]|UNITED STATES OF AMERICA|SLOJ|KELS|UNITED STATES OF AMERICA|42|20|Consortium|In Service|Yes|To be determined|Match
+AAG CABLE NETWORK|Subsea|AAG S4|GUAM|TALS|KELS|UNITED STATES OF AMERICA|110|20|Consortium|In Service|Yes|To be determined|Match
+AAG CABLE NETWORK|Subsea|AAG S5|UNITED STATES OF AMERICA|SLOJ|KELS|UNITED STATES OF AMERICA|42|20|Consortium|In Service|Yes|To be determined|Match
+AAG CABLE NETWORK|Subsea|AAG S3 FP-2 [LAU-TAN]|GUAM|TALS|LAUS|PHILIPPINES|31|20|Consortium|In Service|Yes|To be determined|Match
+AAG CABLE NETWORK|Subsea|AAG S2 FP-1 [LAU-SLT]|HONG KONG|SLTU|LAUS|PHILIPPINES|31|20|Consortium|In Service|Yes|To be determined|Match
+AAG CABLE NETWORK|Subsea|AAG S3 FP-1 [LAU-TAN]|GUAM|TALS|LAUS|PHILIPPINES|31|20|Consortium|In Service|Yes|To be determined|Match
+AAG CABLE NETWORK|Subsea|AAG S2 FP-2 [LAU-SLT]|HONG KONG|SLTU|LAUS|PHILIPPINES|11|20|Consortium|In Service|Yes|To be determined|Match
+AAG CABLE NETWORK|Subsea|AAG S2|HONG KONG|SLTU|LAUS|PHILIPPINES|11|20|Consortium|In Service|Yes|To be determined|Match
+AAG CABLE NETWORK|Subsea|AAG S3|GUAM|TALS|LAUS|PHILIPPINES|31|20|Consortium|In Service|Yes|To be determined|Match
+AAG CABLE NETWORK|Subsea|AAG S1 FP-4(1) [MER-SRA]|THAILAND|SREX|MECS|MALAYSIA|19|20|Consortium|In Service|Yes|To be determined|Match
+AAG CABLE NETWORK|Subsea|AAG S1 FP-1(2) [MER-SLT]|HONG KONG|SLTU|MECS|MALAYSIA|28|20|Consortium|In Service|Yes|To be determined|Match
+AAG CABLE NETWORK|Subsea|AAG S1 FP-2(3) [MER-SCG]|SINGAPORE|SCGL|MECS|MALAYSIA|4|20|Consortium|In Service|Yes|To be determined|Match
+AAG CABLE NETWORK|Subsea|AAG S1 FP-3(3) [SCG-SLT]|HONG KONG|SLTU|SCGL|SINGAPORE|29|20|Consortium|In Service|Yes|To be determined|Match
+AAG CABLE NETWORK|Subsea|AAG [SLTU SLOJ]|HONG KONG|SLTU|SLOJ|UNITED STATES OF AMERICA|152|20|Consortium|In Service|Yes|To be determined|Match
+AAG CABLE NETWORK|Subsea|AAG [SLTU SREX]|THAILAND|SREX|SLTU|HONG KONG|46|20|Consortium|In Service|Yes|To be determined|Match
+AAG CABLE NETWORK|Subsea|AAG S1 FP-7(1) [SLT-VTU]|VIETNAM|VUCL|SLTU|HONG KONG|21|20|Consortium|In Service|Yes|To be determined|Match
+AAG CABLE NETWORK|Subsea|AAG S1 FP-5(1) [SRA-TGK]|BRUNEI|TULS|SREX|THAILAND|25|20|Consortium|In Service|Yes|To be determined|Match
+AAG CABLE NETWORK|Subsea|AAG S1 FP-6(1) [TGK-VTU]|VIETNAM|VUCL|TULS|BRUNEI|15|20|Consortium|In Service|Yes|To be determined|Match
+AAG CABLE NETWORK|Subsea|AAG S1|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Consortium|In Service|Yes|Delete - Test record|
+AJC CABLE NETWORK|Subsea|AJC S4,S5,S7,S9 [MRU TMN]|GUAM|TBCS|MJLS|JAPAN|40|20|Consortium|In Service|Yes|To be determined|Match
+AJC CABLE NETWORK|Subsea|AJC S10 [MRU SIM]|JAPAN|SSNT|MJLS|JAPAN|6|20|Consortium|In Service|Yes|To be determined|Match
+AJC CABLE NETWORK|Subsea|AJC S6,S7,S8 [SIM TGN]|GUAM|TALS|SSNT|JAPAN|40|20|Consortium|In Service|Yes|To be determined|Match
+AJC CABLE NETWORK|Subsea|AJC [SYDO SYDP]|AUSTRALIA|SYDP|SYDO|AUSTRALIA||20|Consortium|In Service|Yes|To be determined|Unable to reconcile against source
+AJC CABLE NETWORK|Subsea|AJC S2,S3,S5,S6 [SYDO TGN]|GUAM|TALS|SYDO|AUSTRALIA|72|20|Consortium|In Service|Yes|To be determined|Match
+AJC CABLE NETWORK|Subsea|AJC S1,S3,S4 [SYDP TMN]|GUAM|TBCS|SYDP|AUSTRALIA|72|20|Consortium|In Service|Yes|To be determined|Match
+AJC CABLE NETWORK|Subsea|AJC [TGN TMN]|GUAM|TBCS|TALS|GUAM||20|Consortium|In Service|Yes|To be determined|Unable to reconcile against source
+APCN2 CABLE NETWORK|Subsea|APCN2 S8C & S8S [BTG KTG]|SINGAPORE|KTLS|BTGA|PHILIPPINES|28|20|Consortium|In Service|Yes|To be determined|Match
+APCN2 CABLE NETWORK|Subsea|APCN2 S5 [CHK KTB]|JAPAN|KALS|CKKD|JAPAN|5|20|Consortium|In Service|Yes|To be determined|Match
+APCN2 CABLE NETWORK|Subsea|APCN2 S4C & S4E [KTB PSN]|KOREA SOUTH|PUCS|KJLS|JAPAN|31|20|Consortium|In Service|Yes|To be determined|Match
+APCN2 CABLE NETWORK|Subsea|APCN2 S1 [KTG KTN]|MALAYSIA|KTN&|KTLS|SINGAPORE|5|20|Consortium|In Service|Yes|To be determined|Match
+APCN2 CABLE NETWORK|Subsea|APCN2 S2 [KTN LNT]|HONG KONG|SLTU|KTN&|MALAYSIA|26|20|Consortium|In Service|Yes|To be determined|Match
+APCN2 CABLE NETWORK|Subsea|What about other segments?|||||||Consortium|||Unable to reconcile against source|Unable to reconcile against source
+C2C CABLE NETWORK|Subsea|C2C SEGMENT 1 (HKCC - PNMA)|PHILIPPINES|PNMA|HKCC|HONG KONG|13.26|10|Telstra International|In Service|Yes|To be determined|Match
+C2C CABLE NETWORK|Subsea|C2C SEGMENT 2AB (HKCC - FGCC)|HONG KONG|HKCC|FGCC|TAIWAN|7.506|10|Telstra International|In Service|Yes|To be determined|Match
+C2C CABLE NETWORK|Subsea|C2C SEGMENT 2AC (HKCC - TTTJ)|TAIWAN|TTTJ|HKCC|HONG KONG|16.583|10|Telstra International|In Service|Yes|To be determined|Match
+C2C CABLE NETWORK|Subsea|C2C SEGMENT 2AC+3A+3B|KOREA SOUTH|PUCC|HKCC|HONG KONG|42.065|10|Telstra International|Faulty|Yes|To be determined|Match
+C2C CABLE NETWORK|Subsea|C2C SEGMENT 2BC (FGCC - TTTJ)|TAIWAN|TTTJ|FGCC|TAIWAN|11.303|10|Telstra International|In Service|Yes|To be determined|Match
+C2C CABLE NETWORK|Subsea|C2C SEGMENT 3A (CFLC - TTTJ)|TAIWAN|TTTJ|CFLC|CHINA|11.781|10|Telstra International|Faulty|Yes|To be determined|Match
+C2C CABLE NETWORK|Subsea|C2C SEGMENT 3A+3B|TAIWAN|TTTJ|PUCC|KOREA SOUTH|23.256|10|Telstra International|Faulty|Yes|To be determined|Match
+C2C CABLE NETWORK|Subsea|C2C SEGMENT 3A+3B+3C|TAIWAN|TTTJ|JSOM|JAPAN|40.982|10|Telstra International|Faulty|Yes|To be determined|Match
+C2C CABLE NETWORK|Subsea|C2C SEGMENT 3B (CFLC - PUCC)|KOREA SOUTH|PUCC|CFLC|CHINA|11.475|10|Telstra International|Faulty|Yes|To be determined|Match
+C2C CABLE NETWORK|Subsea|C2C SEGMENT 3C (PUCC - SMCC)|JAPAN|SMCC|PUCC|KOREA SOUTH|17.726|10|Telstra International|In Service|Yes|To be determined|Match
+C2C CABLE NETWORK|Subsea|C2C SEGMENT 4 (CHCC - SMCC)|JAPAN|SMCC|CHCC|JAPAN|39.4|10|Telstra International|In Service|Yes|To be determined|Match
+C2C CABLE NETWORK|Subsea|C2C SEGMENT 5 (CHCC - PNMA)|PHILIPPINES|PNMA|CHCC|JAPAN|39.4|10|Telstra International|In Service|Yes|To be determined|Match
+C2C CABLE NETWORK|Subsea|C2C SEGMENT 6 (PNMA - SGCH)|SINGAPORE|SGCH|PNMA|PHILIPPINES|25.43|10|Telstra International|In Service|Yes|To be determined|Match
+C2C CABLE NETWORK|Subsea|C2C SEGMENT 7 (SGCH - HKCC)|SINGAPORE|SGCH|HKCC|HONG KONG|28.7|10|Telstra International|In Service|Yes|To be determined|Match
+C2C CABLE NETWORK|Subsea|C2C SHIMA CLS TO EAC SHIMA CLS|JAPAN|SMCC|JSOM|JAPAN||10|Telstra International|In Service|Yes|To be determined|Unable to reconcile against source
+C2C CABLE NETWORK|Subsea|C2C TW CLS|TAIWAN|TAIPEI|TTTJ|TAIWAN||10|Telstra International|In Service|Yes|To be determined|Unable to reconcile against source
+C2C CABLE NETWORK|Subsea|C2C HK CLS|HONG KONG|HKCK|HKCC|HONG KONG||10|Telstra International|In Service|Yes|To be determined|Unable to reconcile against source
+C2C CABLE NETWORK|Subsea|C2C EXPRESS MAIN RING 1 (C2CEXMR001)|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2C EXPRESS MAIN RING 2 (C2CEXMR002)|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2C EXPRESS MAIN RING 3 (C2CEXMR003)|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2C EXPRESS MAIN RING 3 (C2CEXMR003) DIAGRAM|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2C MAIN RING#5 (C2CMR0005)|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2C MAIN RING#5 (C2CMR0005)- PROTECT|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2C MAIN RING#6 (C2CMR0006)|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2C MAIN RING1|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2C MAIN RING4 (NO TRAFFIC IN THIS RING)|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2C NORTH RING 3P|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2C NORTH RING1|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2C NORTH RING2|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2C NORTH RING3|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2C OCG1|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2C OCG10|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2C OCG2|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2C OCG3|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2C OCG4|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2C OCG9|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2C SOUTH RING1|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2C SOUTH RING2|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2C SOUTH RING3|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2C SOUTH RING3P|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2CD10TAI001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2CD10TAI003|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2CD64HKGCHA001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2CD64HKGCHA0012|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2CD64HKGCHA0013|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2CD64HKGCHA003|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2CD64HKGCHA004|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2CD64HKGCHA009|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2CD64HKGCHA010|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2CD64HKGCHA014|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2CD64HKGCHANP001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2CD64HKGCHANP002|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2CD64SNGEQU001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2CHKGCHK <--> EACHKGCHA|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2CHKGCHK <--> EACHKGTSE|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2CNRNP001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2CSRNP001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|C2CSRNP002|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|TEMP C2C MAIN RING#5 (C2CMR0005)|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|TEMP C2C MAIN RING#6 (C2CMR0006)|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+C2C CABLE NETWORK|Subsea|TEMP C2C SOUTH RING3|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC [HKEA TTPL]|TAIWAN|TTPL|HKEA|HONG KONG|16.6|10|Telstra International|In Service|Yes|To be determined|Match
+EAC CABLE NETWORK|Subsea|EAC [JSOM TTPL]|TAIWAN|TTPL|JSOM|JAPAN|24|10|Telstra International|In Service|Yes|To be determined|Match
+EAC CABLE NETWORK|Subsea|EAC [PCGD TTPL]|TAIWAN|TTPL|PCGD|PHILIPPINES|17.8|10|Telstra International|In Service|Yes|To be determined|Match
+EAC CABLE NETWORK|Subsea|EAC-1 SEGMENT A+B (JSOM - TPEA)|TAIWAN|TPEA|JSOM|JAPAN|24|10|Telstra International|In Service|Yes|To be determined|Match
+EAC CABLE NETWORK|Subsea|EAC-1 SEGMENT A+C (HKCK-JSOM)|JAPAN|JSOM|HKCK|HONG KONG|33.8|10|Telstra International|In Service|Yes|To be determined|Match
+EAC CABLE NETWORK|Subsea|EAC-1 SEGMENT B+C (HKCK-TPEA)|TAIWAN|TPEA|HKCK|HONG KONG|16.6|10|Telstra International|In Service|Yes|To be determined|Match
+EAC CABLE NETWORK|Subsea|EAC-1 SEGMENT D+E (HKCK-TPEA)|TAIWAN|TPEA|HKCK|HONG KONG|16.6|10|Telstra International|In Service|Yes|To be determined|Match
+EAC CABLE NETWORK|Subsea|EAC-1 SEGMENT D+F (HKCK - KSSR)|KOREA SOUTH|KSSR|HKCK|HONG KONG|30.2|10|Telstra International|In Service|Yes|To be determined|Match
+EAC CABLE NETWORK|Subsea|EAC-1 SEGMENT DF FP2|KOREA SOUTH|KSSR|HKCK|HONG KONG|30.2|10|Telstra International|In Service|Yes|To be determined|Match
+EAC CABLE NETWORK|Subsea|EAC-1 SEGMENT DF+K|JAPAN|JAAJ|HKCK|HONG KONG|42.54|10|Telstra International|In Service|Yes|To be determined|Match
+EAC CABLE NETWORK|Subsea|EAC-1 SEGMENT K (JAAJ - KSSR)|KOREA SOUTH|KSSR|JAAJ|JAPAN|28.66|10|Telstra International|In Service|Yes|To be determined|Match
+EAC CABLE NETWORK|Subsea|EAC-1 SEGMENT L (JAAJ-JSOM)|JAPAN|JSOM|JAAJ|JAPAN|8.74|10|Telstra International|In Service|Yes|To be determined|Match
+EAC CABLE NETWORK|Subsea|EAC-2 SEGMENT 2A1 (HKCK-SGCN)|SINGAPORE|SGCN|HKCK|HONG KONG|28.95|10|Telstra International|In Service|Yes|To be determined|Match
+EAC CABLE NETWORK|Subsea|EAC-2 SEGMENT 2B1 (PCGD-TPEA)|TAIWAN|TPEA|PCGD|PHILIPPINES|17.8|10|Telstra International|In Service|Yes|To be determined|Match
+EAC CABLE NETWORK|Subsea|EAC-2 SEGMENT 2B2 (PCGD-SGCN)|SINGAPORE|SGCN|PCGD|PHILIPPINES|26.28|10|Telstra International|In Service|Yes|To be determined|Match
+EAC CABLE NETWORK|Subsea|EACD64TAI012 - PROTECT|SINGAPORE|SGGS|SGCN|SINGAPORE|||Telstra International|In Service|Yes|To be determined|Unable to reconcile against source
+EAC CABLE NETWORK|Subsea|EACD64TAI012 W|SINGAPORE|SGGS|SGCN|SINGAPORE|||Telstra International|In Service|Yes|To be determined|Unable to reconcile against source
+EAC CABLE NETWORK|Subsea|EACD64TYONIH002|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TYONIH003|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TYONIH006|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TYONIH005|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TYONIH009|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACSNGMIRING02|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TYONIH007|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TYONIH008|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TYONIHR010|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACAE007|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACAE009|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|TEMP EAC2AE009|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|TEMP EAC2AE010|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|TEMP EACAE002|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|TEMP EACAE003|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|TEMP EACAE004|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|TEMP EACAE005|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|TEMP EACAE006|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|TEMP EACAE010|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|TEMP EACAE007|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|TEMP EACAENP001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|TEMP EACAENP002|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|TEMP EACALN001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64SNGDLS001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64SELSRI009|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-JUS INTERCONNECT #2|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACTYONIH/WS02|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGEQU003|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGEQU004|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-JUS INTERCONNECT #10|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-JUS INTERCONNECT #7|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-JUS INTERCONNECT #3|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-JUS INTERCONNECT #8|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-JUS INTERCONNECT #9|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-KDDI INTERCONNECT #1|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-NTTC INTERCONNECT #1|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-NTTC INTERCONNECT #4|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-NTTC INTERCONNECT #5|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-NTTC INTERCONNECT #6|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-NTTC INTERCONNECT #7|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64SELSRI005|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64SELSRI006|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64SELSRI008|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64SELSRI012|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64SELSRI014|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64SELSRI010|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHANP004|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHANP005|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHANP006|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHANP007|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHANP008|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TAINP002|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-PC1 INTERCONNECT #1|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-PC1 INTERCONNECT #10|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-PC1 INTERCONNECT #13|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-PC1 INTERCONNECT #15|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TPEYAN003|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACAENP002|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64EQUNP004|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|TEMP HKG INTERCONNECT LU01 39-2 LU03 36-2|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACTYOTOR/WS04|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64SELSRI003|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64SELSRI011|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|TEMP EACALN002|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|TEMP EACALN003|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|TEMP EACALN004|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|TEMP EACALN006|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|TEMP EACALN008|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|TEMP EACALNS001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC2AE003|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC2AE005|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC2AE004|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC2AE007|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC2AE009|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC2AE010|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC2AENP001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACAE001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACAE002|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC2AENP002|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACAE004|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACAE005|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACAE003|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACAE006|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACTYONIH/WS04|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACTYOTOR/WS02|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACTYOTOR/WS05|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACHKGCHA <--> EACHKGTSE|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64EQUNP001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC2AE006|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64MAK005|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-PC1 INTERCONNECT #14|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-PC1 INTERCONNECT #2|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-PC1 INTERCONNECT #3|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-PC1 INTERCONNECT #5|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-PC1 INTERCONNECT #6|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-PC1 INTERCONNECT #7|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-PC1 INTERCONNECT #8|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-PC1 INTERCONNECT #9|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC1 OCG1|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC2AE001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TAI002|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACTYOTOR/WS06|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TPEYAN001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TAINP001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TPEYAN004|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-NTTC INTERCONNECT #8|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC2AE002|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TPEYAN005|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACTYOTOR/WS08|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACTYOTOR/WS09|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGYIP002|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGYIP001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGYIP005|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGYIP003|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGYIP004|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGYIP006|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64JPNTOR008|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64MAK003|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64MAK002|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64MAK003 - EAST ROUTE|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64MAK004|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64MAK006|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64MAKNP001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TYONIH004|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACALN006|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHA008|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|TEMP EACAE009|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC2AE008|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACTYONIH/WS03|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64JPNTOR001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EAC-JUS INTERCONNECT #1|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64SELSRI017|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64MAK007|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64SELSRI002|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64SELSRI001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64SELSRI004|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACAENP001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACALN001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACALN002|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACALN003|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACALN004|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACALN008|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACALNS001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACALS001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64EQU001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64EQUNP003|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64EQUNP002|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHA001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHA002|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHA003|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TAI005|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TAI010|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TAI011|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHA004|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHA005|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHA006|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHA012|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHA010|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHA011|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHA007|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHA013|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHA009|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHA014|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHA015|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHA01|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHA017|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHA018 PROTECTION|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64HKGCHANP002|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TAI003|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TAI001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACTPEREN - C2CTWNTSI VC64001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TPEYAN006|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TPEYAN008|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TPEYAN007|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64TWNTPE001|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64SELSRI007|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64SELSRI013|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+EAC CABLE NETWORK|Subsea|EACD64SELSRI016|AFGHANISTAN|ZZZZ|ZZZZ|AFGHANISTAN|||Telstra International|In Service|Yes|Delete - Test record|
+FASTER CABLE NETWORK|Subsea|FASTER S1 & S2 [BDN-CHK2]|JAPAN|CKKD|BAAT|UNITED STATES OF AMERICA|83.2|20|Consortium|In Service|No|To be determined|Match
+FASTER CABLE NETWORK|Subsea|FASTER S1 & S3 & S4 [BDN-SHS]|JAPAN|SSNT|BAAT|UNITED STATES OF AMERICA|87.3|20|Consortium|In Service|No|To be determined|Match
+HAWAIKI CABLE NETWORK|Subsea|HAWAIKI SEGMENT1 [AUSY HIKA]|AUSTRALIA|SYE4|HIKA|UNITED STATES OF AMERICA|133|20|SubCom|In Service|No|To be determined|Match
+HAWAIKI CABLE NETWORK|Subsea|HAWAIKI SEGMENT2 [HIKA USFB]|UNITED STATES OF AMERICA|USFB|HIKA|UNITED STATES OF AMERICA|88.2|20|SubCom|In Service|No|To be determined|Match
+HAWAIKI CABLE NETWORK|Subsea|What about other segments?|||||||SubCom|In Service|No|Unable to reconcile against source|Unable to reconcile against source
+INDIGO WEST CABLE|Subsea|INDIGO [IJCB - ISTT]|SINGAPORE|ISTT|IJCB|INDONESIA|11|20|Consortium|In Service|Yes|To be determined|Match
+INDIGO WEST CABLE|Subsea|INDIGO [PTHW - TUAS]|SINGAPORE|TUAS|PTHW|AUSTRALIA|47|20|Consortium|In Service|Yes|To be determined|Match
+INDIGO WEST CABLE|Subsea|INDIGO WEST CABLE - TELSTRA CAPACITY [PTHW TUAS]|SINGAPORE|TUAS|PTHW|AUSTRALIA||20|Consortium|In Service|Yes|Delete - Test record|
+RNAL CABLE NETWORK|Subsea|TNAL [TCH FP1 - WAD FP4]|TAIWAN|TUCN|JWLS|JAPAN|70|20|Consortium|In Service|Yes|To be determined|Match
+RNAL CABLE NETWORK|Subsea|RNAL [TCH FP2 - WAD FP5]|TAIWAN|TUCN|JWLS|JAPAN|27|20|Consortium|In Service|Yes|To be determined|Match
+RNAL CABLE NETWORK|Subsea|RNAL [PSN FP5 - WAD FP5]|KOREA SOUTH|KOLS|JWLS|JAPAN|22|20|Consortium|In Service|Yes|To be determined|Match
+RNAL CABLE NETWORK|Subsea|RNAL SEGMENT F|KOREA SOUTH|KOLS|JWLS|JAPAN|75|20|Consortium|In Service|Yes|To be determined|Match
+RNAL CABLE NETWORK|Subsea|RNAL SEGMENT A + B|TAIWAN|TUCN|JWLS|JAPAN|27|20|Consortium|In Service|Yes|To be determined|Match
+RNAL CABLE NETWORK|Subsea|RNAL CCW|TAIWAN|TUCN|JWLS|JAPAN|77|20|Consortium|In Service|Yes|Create|Match
+RNAL CABLE NETWORK|Subsea|RNAL [PSN FP5 - TFK FP5]|HONG KONG|TGFK|KOLS|KOREA SOUTH|69|20|Consortium|In Service|Yes|To be determined|Match
+RNAL CABLE NETWORK|Subsea|RNAL SEGMENT E|HONG KONG|TGFK|KOLS|KOREA SOUTH|28|20|Consortium|In Service|Yes|To be determined|Match
+RNAL CABLE NETWORK|Subsea|RNAL [TCH FP2 - TFK FP5]|TAIWAN|TUCN|TGFK|HONG KONG|20|20|Consortium|In Service|Yes|To be determined|Match
+RNAL CABLE NETWORK|Subsea|RNAL SEGMENT C + D|TAIWAN|TUCN|TGFK|HONG KONG|77|20|Consortium|In Service|Yes|To be determined|Match
+TGN-IA CABLE NETWORK|Subsea||||||||Tata Communications|In Service|No|Unable to reconcile against source|Unable to reconcile against source
+UNITY CABLE NETWORK|Subsea|UNITY [1WUN-CKKD]|JAPAN|CKKD|1WUN|UNITED STATES OF AMERICA|95.309|20|Consortium|In Service|Yes|To be determined|Match
+UNITY CABLE NETWORK|Subsea|What about other segments?|JAPAN|JWLS||UNITED STATES OF AMERICA|95.575||Consortium|In Service|Yes|Unable to reconcile against source|Unable to reconcile against source
+SOUTHERN CROSS CABLE NETWORK|Subsea|SX SE2 [HIL SJE]|UNITED STATES OF AMERICA|SJMC|HILS|UNITED STATES OF AMERICA|17|20|Southern Cross Cable Network|In Service|No|To be determined|Match
+SOUTHERN CROSS CABLE NETWORK|Subsea|SX SE [HIL MRB]|UNITED STATES OF AMERICA|MRBC|HILS|UNITED STATES OF AMERICA|16|20|Southern Cross Cable Network|In Service|No|To be determined|Match
+SOUTHERN CROSS CABLE NETWORK|Subsea|SX SF [HIL KAH]|UNITED STATES OF AMERICA|KPLS|HILS|UNITED STATES OF AMERICA|48|20|Southern Cross Cable Network|In Service|No|To be determined|Match
+SOUTHERN CROSS CABLE NETWORK|Subsea|SX SI [KAH SPE]|UNITED STATES OF AMERICA|SBLS|KPLS|UNITED STATES OF AMERICA|5|20|Southern Cross Cable Network|In Service|No|To be determined|Match
+SOUTHERN CROSS CABLE NETWORK|Subsea|SX SD [MRB SPE]|UNITED STATES OF AMERICA|SBLS|MRBC|UNITED STATES OF AMERICA|42|20|Southern Cross Cable Network|In Service|No|To be determined|Match
+SOUTHERN CROSS CABLE NETWORK|Subsea|SX SE1 [MRB SJE]|UNITED STATES OF AMERICA|SJMC|MRBC|UNITED STATES OF AMERICA|4|20|Southern Cross Cable Network|In Service|No|To be determined|Match
+SOUTHERN CROSS CABLE NETWORK|Subsea|SX SK4 [PE8 SJE]|UNITED STATES OF AMERICA|SJMC|PAIX|UNITED STATES OF AMERICA|||Southern Cross Cable Network|In Service|No|Unable to reconcile against source|Unable to reconcile against source
+SOUTHERN CROSS CABLE NETWORK|Subsea|SX SC [SPE TAK]|NEW ZEALAND|TACL|SBLS|UNITED STATES OF AMERICA|81|20|Southern Cross Cable Network|In Service|No|To be determined|Match
+SOUTHERN CROSS CABLE NETWORK|Subsea|SX SH24 [ALX SEQ/SY1]|AUSTRALIA|SYEQ|SXAL|AUSTRALIA|||Southern Cross Cable Network|In Service|No|Unable to reconcile against source|Unable to reconcile against source
+SOUTHERN CROSS CABLE NETWORK|Subsea|SX NEXT [ALX TAK]|NEW ZEALAND|TACL|SXAL|AUSTRALIA|24|20|Southern Cross Cable Network|In Service|No|To be determined|Match
+SOUTHERN CROSS CABLE NETWORK|Subsea|SX STH SA-B-C-D [ALX-WHE-TAK-SPE-MOR] - DUMMY|NEW ZEALAND|WHLS|SXAL|AUSTRALIA|23|20|Southern Cross Cable Network|In Service|No|To be determined|Match
+SOUTHERN CROSS CABLE NETWORK|Subsea|SX Next [ALX LC2]|UNITED STATES OF AMERICA|ULAL|SXAL|AUSTRALIA|||Southern Cross Cable Network|In Service|No|Unable to reconcile against source|Unable to reconcile against source
+SOUTHERN CROSS CABLE NETWORK|Subsea|SX SA [ALX WHE]|NEW ZEALAND|WHLS|SXAL|AUSTRALIA|23|20|Southern Cross Cable Network|In Service|No|To be determined|Match
+SOUTHERN CROSS CABLE NETWORK|Subsea|SX SH [ALX BRO]|AUSTRALIA|SXBR|SXAL|AUSTRALIA|1|20|Southern Cross Cable Network|In Service|No|To be determined|Match
+SOUTHERN CROSS CABLE NETWORK|Subsea|SX SH23 [BRO SEQ/SY1]|AUSTRALIA|SYEQ|SXBR|AUSTRALIA|||Southern Cross Cable Network|In Service|No|Unable to reconcile against source|Unable to reconcile against source
+SOUTHERN CROSS CABLE NETWORK|Subsea|SX NEXT [TAK LC2]|UNITED STATES OF AMERICA|ULAL|TACL|NEW ZEALAND|||Southern Cross Cable Network|In Service|No|Unable to reconcile against source|Unable to reconcile against source
+SOUTHERN CROSS CABLE NETWORK|Subsea|SX SB [TAK WHE]|NEW ZEALAND|WHLS|TACL|NEW ZEALAND|1|20|Southern Cross Cable Network|In Service|No|To be determined|Match
+TGN-EA CABLE|Subsea|TGN-EA [MRSJ-MBAI]|FRANCE|MRSJ|MBAI|INDIA|92|80|Tata Communications|In Service|No|To be determined|Match
+TGN-EA CABLE|Subsea|TGN-EA [UFSH-ULCN]|UNITED KINGDOM|ULCN|UFSH|UNITED ARAB EMIRATES|||Tata Communications|In Service|No|Unable to reconcile against source|Unable to reconcile against source
+EXA EXPRESS CABLE SYSTEM|Subsea|EXA EXPRESS [LON-USA]|UNITED KINGDOM|ULHC|EQAB|UNITED STATES OF AMERICA|69.4|80|EXA Infrastructure|In Service|No|To be determined|Match
+EXA EXPRESS CABLE SYSTEM|Subsea|EXA EXPRESS [LON-USA]|UNITED KINGDOM|ULHC|UNSE|UNITED STATES OF AMERICA|63.3|80|EXA Infrastructure|In Service|No|Create|Match
+FA-1 CABLE SYSTEM|Subsea|FA-1 CABLE (SOUTH)|UNITED KINGDOM|ULHC|NY8A|UNITED STATES OF AMERICA|||Global Cloud Xchange|In Service|No|Update - Incorrect status|Unable to reconcile against source
+FA-1 CABLE SYSTEM|Subsea|FA-1 CABLE (NORTH)|UNITED KINGDOM|ULCO|NY8A|UNITED STATES OF AMERICA|||Global Cloud Xchange|In Service|No|Update - Incorrect status|Unable to reconcile against source
+FA-1 CABLE SYSTEM|Subsea|FA1-NORTH|UNITED KINGDOM|ULHC|UNSE|UNITED STATES OF AMERICA|72|80|Global Cloud Xchange|In Service|No|To be determined|Match
+AC-1 CABLE SYSTEM|Subsea|AC-1 CABLE (SOUTH)|UNITED KINGDOM|ULCO|NY8A|UNITED STATES OF AMERICA|69.15|80|Aqua Comms|In Service|No|Update - Incorrect status|Match
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S2.1&.3&.4 [IBTR ALEX]|ITALY|IBTR|ALEX|EGYPT|20.17|80|Consortium|In Service|No|To be determined|Match
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S2 SUB-SYSTEM|FRANCE|MRSA|ALEX|EGYPT|29.13|80|Consortium|In Service|No|To be determined|Match
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S-X1 (LAND SECTION) [ALEX EZAE]|EGYPT|EZAE|ALEX|EGYPT|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S2.1&.3&.5 [MRSA ALEX]|FRANCE|MRSA|ALEX|EGYPT|29.13|80|Consortium|In Service|No|To be determined|Match
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S1-H.4 & 5 [CSCI TSCR]|THAILAND|TSCR|CSCI|CAMBODIA|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S1-H.1 & 3 & 4 [HKCA CSCI]|HONG KONG|HKCA|CSCI|CAMBODIA|29.36|80|Consortium|In Service|No|To be determined|Match
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S1-S.18&.19&.21 [EZAE DJIB]|EGYPT|EZAE|DJIB|DJIBOUTI|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S1-S.2&.3&.5&.7&.15&.17&.18 [DJIB TSPE]|THAILAND|TSPE|DJIB|DJIBOUTI|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S1-S SUB-SYSTEM|THAILAND|TSPE|EZAE|EGYPT|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S1-S.1&.3&.5&.7&.15&.17&.19&. 21 [EZAE MPTM]|MALAYSIA|MPTM|EZAE|EGYPT|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S1-S.2&.3&.5&.7&.15&.17&.19&. 21 [EZAE TSPE]|THAILAND|TSPE|EZAE|EGYPT|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S1-S.6&.7&.15&.17&.19&.21 [EZAE IMNB]|INDIA|IMNB|EZAE|EGYPT|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S1-S.8&.10&.11&.15&.17&.19&.21 [EZAE OMAB]|OMAN|OMAB|EZAE|EGYPT|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S1-S.8&.10&.12&.13&.15&.17&.19&.21 [EZAE FUJB]|UNITED ARAB EMERIATES|FUJB|EZAE|EGYPT|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S1-S.1&.3&.5&.7&.8&.10&.12&.13 [FUJB MPTM]|MALAYSIA|MPTM|FUJB|UNITED ARAB EMERIATES|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S1-H.1 & 2 [HKCA VUCL]|VIETNAM|VUCL|HKCA|HONG KONG|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S1-H.1 & 3 & 5 [TSCR HKCA]|THAILAND|TSCR|HKCA|HONG KONG|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 T1-H HKG LAND SECTION [HKCA HKWG]|HONG KONG|HKWG|HKCA|HONG KONG|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 [MRS2 - HKTH]|FRANCE|MRS1|HKTH|HONG KONG|153.39|80|Consortium|In Service|No|To be determined|Match
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 [HKTH - IMNV]|INDIA|IMNV|HKTH|HONG KONG|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 [HKTH - MRS1]|FRANCE|MRS1|HKTH|HONG KONG|153.16|80|Consortium|In Service|No|To be determined|Match
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S1-H SUB-SYSTEM|THAILAND|TSCR|HKWG|HONG KONG|29.25|80|Consortium|In Service|No|To be determined|Match
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 [IMNB - MRS1]|FRANCE|MRS1|IMNB|INDIA|97.36|80|Consortium|In Service|No|To be determined|Match
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S1-S.1&.3&.5&.6 [IMNB MPTM]|MALAYSIA|MPTM|IMNB|INDIA|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S-L1 (LAND SECTION) [MPTM SGTC]|SINGAPORE|SGTC|MPTM|MALAYSIA|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S1-S.1&.2 [TSPE MPTM]|THAILAND|TSPE|MPTM|MALAYSIA|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S1-S.1&.3&.5&.7&.8&.10&.11 [OMAB MPTM]|OMAN|OMAB|MPTM|MALAYSIA|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S-L2 (LAND SECTION) [MPTM SSG3]|SINGAPORE|SSG3|MPTM|MALAYSIA|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 [MRS1 - SGGS]|SINGAPORE|SGGS|MRS1|FRANCE|131.55|80|Consortium|In Service|No|To be determined|Match
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 [MRS2 - SGGS]|SINGAPORE|SGGS|MRS2|FRANCE|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S2-T2 (LAND SECTION) [MRSK MRSA]|FRANCE|MRSK|MRSA|FRANCE|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S2-T1 (LAND SECTION) [MRSJ MRSA]|FRANCE|MRSJ|MRSA|FRANCE|||Consortium|Decommissioned|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S-L3.1 (LAND SECTION) [SSG3 SGTC]|SINGAPORE|SSG3|SGTC|SINGAPORE|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S-L3.2 (LAND SECTION) [SSG3 SGTC]|SINGAPORE|SSG3|SGTC|SINGAPORE|||Consortium|In Service|No|To be determined|
+AAE-1 SUBMARINE SYSTEM (ASIA AFRICA EUROPE-1)|Subsea|AAE-1 S-X2 (LAND SECTION) [TSPE TSCR]|THAILAND|TSPE|TSCR|THAILAND|||Consortium|In Service|No|To be determined|
